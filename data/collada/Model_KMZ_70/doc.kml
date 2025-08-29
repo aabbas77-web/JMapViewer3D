@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Model_KMZ</name>
+    <description>MapViewer&lt;br/>
+ Length (m) = -1.00 m&lt;br/>
+ Length (m) = -1.00 m&lt;br/>
+ Length (m) = -1.00 m&lt;br/>
+ Length (m) = -1.00 m&lt;br/>
+ Length (m) = -1.00 m&lt;br/>
+ Length (m) = -1.00 m&lt;br/>
+ Length (m) = -1.00 m</description>
+    <ExtendedData>
+      <Data name="length_m">
+        <value>-1.00</value>
+      </Data>
+    </ExtendedData>
+    <Model id="model1">
+      <altitudeMode>absolute</altitudeMode>
+      <Location>
+        <longitude>36.2249341308</longitude>
+        <latitude>33.5704037497</latitude>
+        <altitude>-26.7913693429</altitude>
+      </Location>
+      <Orientation>
+        <heading>0.0</heading>
+        <tilt>0.0</tilt>
+        <roll>0.0</roll>
+      </Orientation>
+      <Scale>
+        <z>1.0</z>
+      </Scale>
+      <Link>
+        <href>model.dae</href>
+      </Link>
+    </Model>
+  </Placemark>
+</kml>
