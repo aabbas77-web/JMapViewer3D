@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcodec-0.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-5.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/zip4j-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-intellij-themes-1.0-rc2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jide-oss-3.6.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-platform-5.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webcam-capture-0.3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JCheckboxTree-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-1.0-rc2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flanagan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bridj-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

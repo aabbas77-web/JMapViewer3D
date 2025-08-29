@@ -1,0 +1,2 @@
+[gdal+ecw]
+http://demo.geo-solutions.it/share/github/imageio-ext/releases/1.1.X/1.1.29/

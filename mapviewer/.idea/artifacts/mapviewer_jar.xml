@@ -1,0 +1,68 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mapviewer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mapviewer_jar</output-path>
+    <root id="archive" name="mapviewer.jar">
+      <element id="module-output" name="mapviewer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sqlite-jdbc-3.34.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jcodec-0.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jna-5.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/zip4j-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/AbsoluteLayout.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/flatlaf-intellij-themes-1.0-rc2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jide-oss-3.6.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jna-platform-5.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/webcam-capture-0.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/JCheckboxTree-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/flatlaf-1.0-rc2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/flanagan.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-api-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/bridj-0.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/sqlite-jdbc-3.34.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gdal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/bridj-0.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/zip4j-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/flatlaf-1.0-rc2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/webcam-capture-0.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WorldWindJava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-api-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JCheckboxTree-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jcodec-0.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jna-platform-5.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jna-5.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/flatlaf-intellij-themes-1.0-rc2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/rxtxcomm-2.0-7pre1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jide-oss-3.6.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/flanagan.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-anim.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-bridge.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-codec.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-gui-util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-dom.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/xerces_2_5_0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-xml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-css.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/xalan-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/pdf-transcoder.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/js.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-extension.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-awt-util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/xml-apis-ext.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-script.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-svggen.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-ext.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-gvt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/xml-apis.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-parser.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-svg-dom.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib-external/batik/lib/batik-transcoder.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
