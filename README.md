@@ -11,6 +11,6 @@
 
 **Java Offline MapViewer 3D**
 
-[![Java MapViewer 3D](https://github.com/aabbas77-web/Abraj/releases/download/FirstRelease/AbrajVideo.png)](https://www.youtube.com/watch?v=hzpGa4HKkgg)
+[![Java MapViewer 3D](https://github.com/aabbas77-web/JMapViewer3D/releases/download/FirstRelease/JMapViewer3DVideo.png)](https://www.youtube.com/watch?v=WOGnmRB0ZiA)
 
 
