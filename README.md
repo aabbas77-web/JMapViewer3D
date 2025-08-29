@@ -9,7 +9,7 @@
 ## I am trying to revive the programs I developed throughout my long career
 ## This Program since 02/08/2021
 
-**Java MapViewer 3D**
+**Java Offline MapViewer 3D**
 
 [![Java MapViewer 3D](https://github.com/aabbas77-web/Abraj/releases/download/FirstRelease/AbrajVideo.png)](https://www.youtube.com/watch?v=hzpGa4HKkgg)
 
