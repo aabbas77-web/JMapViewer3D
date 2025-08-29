@@ -1,9 +1,13 @@
 ![image alt](https://github.com/aabbas77-web/AliSoft/blob/main/AliSoft128Transparent.png)
 # [AliSoft](https://hodhods.com) JMapViewer3D
 # By Dr. Ali Abbas aabbas7@gmail.com
-# Programming Language: C++Builder 5
+# Programming Language: Java
+## Product Version: Apache NetBeans IDE 24
+## Java: 17.0.2; OpenJDK 64-Bit Server VM 17.0.2+8-86
+## Runtime: OpenJDK Runtime Environment 17.0.2+8-86
+## System: Windows 10 version 10.0 running on amd64; Cp1252; en_US (nb)
 ## I am trying to revive the programs I developed throughout my long career
-## This Program since 03/10/2004
+## This Program since 02/08/2021
 
 **Java MapViewer 3D**
 
